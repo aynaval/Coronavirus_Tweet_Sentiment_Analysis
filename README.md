@@ -23,11 +23,11 @@ Text preprocessing is done on the OriginalTweet column, the following steps are 
 3. Removing numbers
 4. Removing special characters
 5. Removing multiple white spaces
-6.Removing stop word
-7.Removing short words
-8.Tokenization
-9.Stemming
-10.Vectorization
+6. Removing stop word
+7. Removing short words
+8. Tokenization
+9. Stemming
+10. Vectorization
 
 It can be concluded that for the given multiclass classification CatboostClassifier is the best algorithm and for binary classification SGDclassifier is the best algorithm.
 
